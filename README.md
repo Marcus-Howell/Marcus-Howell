@@ -22,3 +22,7 @@ ___
 - Blender
 - Autocad
 - Bricklink Studio
+
+### Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Marcus-Howell&show_icons=true&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Howell&theme=dark"/>
