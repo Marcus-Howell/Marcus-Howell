@@ -10,3 +10,15 @@ ___
 - 🔭 I’m currently working on Robotics for the FIRST LEGO LEAGUE Team Go Robot
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I grew up bilingually, speaking both English and German
+
+___
+
+### Skills and tools:
+##### Coding
+- Java
+- Python
+
+#### 3D-Modelling
+- Blender
+- Autocad
+- Bricklink Studio
