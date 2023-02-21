@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Marcus
 
-I'm a student from Germany and will finish school in June. For the past six years I have taken part in the robotics competition [First Lego League](https://www.firstlegoleague.org). There I have been responsible for various aspects including physical hardware design, coding (developing both the core logic and also testing the reliability of the robot), doing long term research and project management.
+I'm a student from Germany and will finish school in June. After that I am looking to study mechanical engineering in Karslruhe. For the past six years I have taken part in the robotics competition [First Lego League](https://www.firstlegoleague.org) with our school team GO Robot. There I have been responsible for various aspects, including physical hardware design, coding (developing both the core logic, programming what the robot will actually do in the field and also testing the reliability of the robot), doing long term research and project management for a small team other a long duration. Should you want to check out what the team has achieved, you can watch [this video](https://www.youtube.com/watch?v=SG2R4U7EtaM).
 ___
 
 <!--
@@ -9,7 +9,7 @@ ___
 
 - 🔭 I’m currently working on Robotics for the FIRST LEGO LEAGUE Team Go Robot
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I grew up bilingually, speaking both English and German
+- ⚡ Fun fact: I grew up bilingually, speaking both English and German as native languages
 
 ___
 
